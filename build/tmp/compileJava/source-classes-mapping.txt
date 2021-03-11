@@ -2,3 +2,15 @@ com/jaebok/inflearn/intellij/Main.java
  com.jaebok.inflearn.intellij.Main
 com/jaebok/inflearn/intellij/Main2.java
  com.jaebok.inflearn.intellij.Main2
+com/jaebok/inflearn/intellij/LineCopy.java
+ com.jaebok.inflearn.intellij.LineCopy
+com/jaebok/inflearn/intellij/ViewArguments.java
+ com.jaebok.inflearn.intellij.ViewArguments
+com/jaebok/inflearn/intellij/EmailSender.java
+ com.jaebok.inflearn.intellij.EmailSender
+com/jaebok/inflearn/intellij/LineMove.java
+ com.jaebok.inflearn.intellij.LineMove
+com/jaebok/inflearn/intellij/ViewDoc.java
+ com.jaebok.inflearn.intellij.ViewDoc
+com/jaebok/inflearn/intellij/LineJoin.java
+ com.jaebok.inflearn.intellij.LineJoin
